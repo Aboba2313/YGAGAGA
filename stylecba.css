@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #2C17B1;
+}
+
+header {
+    background-color: #2C17B1;
+    margin: 0px 0px 0px 0px;
+}
+
+p {
+    color: #2C17B1;
+}
+
+h2 {
+    color: #2C17B1;
+}
+
+li {
+    color: #2C17B1;
+}
+
+.podval {
+    background-color:#FFF400 ;
+}
+
+a {
+    background-color: #FF9F00;
+    border-radius: 52px;
+    padding:5px;
+    text-decoration: none;
+}
+
+ul {
+
+}
+
+img {
+    width: 133px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px 40px 20px 40px;
+}
+
+footer p {
+    background-color:#FFF400 ;
+    margin: 10px;
+}
+
+footer {
+    padding: 10px;
+}
+
+header p {
+    background-color:#FFF400 ;
+    margin: 10px;
+}
+
+header {
+    padding: 10px;
+}
